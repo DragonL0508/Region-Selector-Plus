@@ -1,0 +1,3 @@
+item replace entity @s hotbar.0 with bee_spawn_egg{display:{Name:'{"text":"Set Position 1","color":"yellow","italic":false}'},EntityTag:{id:"minecraft:area_effect_cloud",Duration:1,Tags:["rs.pos1"]}} 1
+
+item replace entity @s hotbar.1 with bee_spawn_egg{display:{Name:'{"text":"Set Position 2","color":"yellow","italic":false}'},EntityTag:{id:"minecraft:area_effect_cloud",Duration:1,Tags:["rs.pos2"]}} 1

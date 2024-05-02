@@ -1,0 +1,1 @@
+$execute at @s run $(join_cmd)
