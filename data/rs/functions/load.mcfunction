@@ -19,5 +19,4 @@ scoreboard players reset * rs.this.z
 forceload add 0 0
 
 #show credits
-scoreboard players reset loaded rs.tmp
 execute unless score loaded rs.tmp matches 1 run function rs:credits
