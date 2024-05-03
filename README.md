@@ -1,3 +1,4 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ### **Do you encounter issues with selecting specific area when making maps?**
 This datapack can solve most of your rectangular area problems.
 
