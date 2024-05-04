@@ -9,6 +9,7 @@ This datapack can solve most of your rectangular area problems.
 - Customizable region names
 - Convenient Tags & Library, allowing you to pull data from your own datapack for use
 - Custom events for entering and leaving regions
+- Different regions can apply different entity selectors
 
 ![select the region](https://cdn.modrinth.com/data/cached_images/f12b2cc662dc08525909639762ef0afe77c54e1e.png)
 
