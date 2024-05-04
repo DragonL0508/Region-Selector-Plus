@@ -21,3 +21,7 @@ $function rs:command/is_exist {id:"$(id)"}
 
 $tellraw @s {"text": "\n§7[§a!§7] §e$(id) §ahas been saved !\n"}
 playsound entity.player.levelup master @s ~ ~ ~ 1 1 1
+
+#default selector
+$execute if data storage rs:data region_$(id).selector run return 0
+$data modify storage rs:data region_$(id).selector set value "@a"
